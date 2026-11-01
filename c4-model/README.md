@@ -8,6 +8,6 @@ A collection of [C4 model](https://c4model.com/) architecture diagrams (Mermaid)
 
 ## Adding a new C4 model
 
-1. Create `c4_model/<system-name>/` with `README.md`, `mermaid/` and `docs/`.
+1. Create `c4-model/<system-name>/` with `README.md`, `mermaid/` and `docs/`.
 2. Number the diagrams by level (context, containers, components, dynamic, deployment).
 3. Add a row to the table above.
