@@ -1,6 +1,6 @@
 # ShopSphere C4 Model (Mermaid)
 
-C4 model ([c4model.com](https://c4model.com/)) of **ShopSphere**, an e-commerce platform that extends the Kafka order-saga demo (`eventdriven_microservices`: order, payment, inventory, notification services on Kafka). All diagrams are Mermaid and render natively on GitHub and in VS Code (Markdown preview with a Mermaid extension).
+C4 model ([c4model.com](https://c4model.com/)) of **ShopSphere**, an e-commerce platform that extends the Kafka order-saga demo ([`eventdriven_microservices`](https://github.com/sauravotta/realtime_streaming_projects/tree/main/eventdriven_microservices): order, payment, inventory, notification services on Kafka). All diagrams are Mermaid and render natively on GitHub and in VS Code (Markdown preview with a Mermaid extension).
 
 Elements labelled **(Planned)** are target-state and not part of the current demo.
 
